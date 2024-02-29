@@ -4,10 +4,10 @@
 2lambda123/ibkr-options-volatility-trading is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [VMware ESXi](https://www.vmware.com/products/esxi-and-esx.html) – Virtual Machine Management
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -18,10 +18,10 @@ Full tech stack [here](/techstack.md)
 2lambda123/ibkr-options-volatility-trading is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/48291/default_61ce96b4378e0a2a4b386b66a34c393760b770e0.jpg' alt='VMware ESXi'/> [VMware ESXi](https://www.vmware.com/products/esxi-and-esx.html) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/ibkr-options-volatility-trading](https://github.com/2lambda123/ibkr-options-volatility-trading)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|21<br/>Tools used|01/05/24 <br/>Report generated|
+|21<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
