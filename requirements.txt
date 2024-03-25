@@ -1,6 +1,6 @@
 appdirs==1.4.4
 attrs==21.2.0
-black==21.5b1
+black==24.3.0
 click==8.0.1
 iniconfig==1.1.1
 mypy-extensions==0.4.3
